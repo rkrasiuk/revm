@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [4.0.1](https://github.com/rkrasiuk/revm/compare/revm-precompile-v4.0.0...revm-precompile-v4.0.1) - 2024-02-16
+
+### Other
+- *(precompile)* use `Bytes` in precompile functions ([#1085](https://github.com/rkrasiuk/revm/pull/1085))
+- license date and revm docs ([#1080](https://github.com/rkrasiuk/revm/pull/1080))
+
 ## [4.0.0](https://github.com/bluealloy/revm/compare/revm-precompile-v3.0.0...revm-precompile-v4.0.0) - 2024-02-12
 
 ### Other

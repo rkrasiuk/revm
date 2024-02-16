@@ -6,6 +6,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.1](https://github.com/rkrasiuk/revm/compare/revm-primitives-v2.0.0...revm-primitives-v2.0.1) - 2024-02-16
+
+### Fixed
+- optimism compilation ([#1091](https://github.com/rkrasiuk/revm/pull/1091))
+- Set is_optimism to true if default config ([#1087](https://github.com/rkrasiuk/revm/pull/1087))
+
+### Other
+- *(precompile)* use `Bytes` in precompile functions ([#1085](https://github.com/rkrasiuk/revm/pull/1085))
+- license date and revm docs ([#1080](https://github.com/rkrasiuk/revm/pull/1080))
+
 ## [2.0.0](https://github.com/bluealloy/revm/compare/revm-primitives-v1.3.0...revm-primitives-v2.0.0) - 2024-02-07
 
 ### Added
