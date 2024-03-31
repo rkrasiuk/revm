@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.4.0](https://github.com/rkrasiuk/revm/compare/revme-v0.3.1...revme-v0.4.0) - 2024-03-31
+
+### Added
+- [**breaking**] TracerEip3155 optionally traces memory ([#1234](https://github.com/rkrasiuk/revm/pull/1234))
+
 ## [0.3.1](https://github.com/bluealloy/revm/compare/revme-v0.3.0...revme-v0.3.1) - 2024-03-19
 
 ### Other

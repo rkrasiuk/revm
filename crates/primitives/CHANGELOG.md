@@ -6,6 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [3.1.1](https://github.com/rkrasiuk/revm/compare/revm-primitives-v3.1.0...revm-primitives-v3.1.1) - 2024-03-31
+
+### Fixed
+- fix eip3155 summary gas_used bug and add fork name ([#1216](https://github.com/rkrasiuk/revm/pull/1216))
+
+### Other
+- *(deps)* bump alloy 0.7.0 ([#1250](https://github.com/rkrasiuk/revm/pull/1250))
+
 ## [3.1.0](https://github.com/bluealloy/revm/compare/revm-primitives-v3.0.0...revm-primitives-v3.1.0) - 2024-03-19
 
 ### Added
